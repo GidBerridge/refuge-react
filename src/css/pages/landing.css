@@ -1,7 +1,3 @@
-.bg {
-  display: flex;
-}
-
 .landing-container {
   width: 100%;
   display: flex;
@@ -18,6 +14,13 @@
 
 .hero img {
   width: 100%;
+}
+
+#bg {
+  background: #000 url('../../img/band_colour_2b.jpg');
+  background-size: 1920px;
+  background-position: center center;
+  display: flex;
 }
 
 .news {
@@ -41,6 +44,7 @@
   .news {
     opacity: 0;
   }
+
   .hero {
     margin: 4rem 0;
   }
