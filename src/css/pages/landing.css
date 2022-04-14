@@ -16,7 +16,7 @@
   width: 100%;
 }
 
-#bg {
+.bg {
   background: #000 url('../../img/band_colour_2b.jpg');
   background-size: 1920px;
   background-position: center center;
