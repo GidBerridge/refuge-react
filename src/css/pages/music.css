@@ -1,0 +1,39 @@
+.music_bg {
+  background-image: none;
+  background-color: black;
+  background-size: 100%;
+  display: flex;
+  justify-content: space-between;
+  background-repeat: no-repeat;
+}
+
+.music-title {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.music-card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-bottom: 10%;
+}
+
+.youtube-vid {
+  border: solid 1px #d7d344;
+  margin: 15% 0;
+}
+
+.tune {
+  text-align: center;
+  padding: 5px 0;
+  width: 100%;
+}
+
+.media-box {
+  display: flex;
+  justify-content: center;
+  flex-basis: 100%;
+  flex-direction: column;
+  align-items: center;
+}

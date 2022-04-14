@@ -1,0 +1,24 @@
+.btn-buy {
+  margin: 4%;
+}
+
+.btn-buy:link,
+.btn-buy:visited {
+  color: black;
+}
+
+.btn-buy:hover,
+.btn-buy:active {
+  color: #161dff;
+  transform: scale(1.2);
+}
+
+.btn-box {
+  display: flex;
+  justify-content: space-evenly;
+  flex-basis: 100%;
+}
+
+.btn {
+  color: var(--color-black) !important;
+}
